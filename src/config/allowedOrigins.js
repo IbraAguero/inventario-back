@@ -1,1 +1,1 @@
-export const allowedOrigins = ['https://inventario-ministerio.onrender.com/'];
+export const allowedOrigins = ['https://inventario-ministerio.onrender.com'];
